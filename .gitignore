@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.suo
+
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
